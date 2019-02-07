@@ -17,4 +17,6 @@ Classification:
   ```
   val car = Car(model = "X")
   ```
+  
+- Behavior
   * **[Iterator](https://github.com/thedeveloperworldisyours/DesignPatterns/blob/master/src/Iterator.kt)**
